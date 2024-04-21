@@ -1,0 +1,129 @@
+body {
+    color: whitesmoke;
+    background-color: rgb(60, 22, 229);
+}
+
+h1 {
+    color: beige;
+    font-size:xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display:grid;
+    text-align: center;
+    text-decoration-color: burlywood;
+    background-color: rgb(50, 3, 3);
+    padding-top: 10px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    font-weight: bolder;
+}
+
+h2 {
+    color: beige;
+    font-size:larger;
+    display:block;
+    text-align: center;
+    text-decoration-color: burlywood;
+    background-color: rgb(50, 3, 3);
+    padding-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    font-weight: bolder;
+}
+
+h3 {
+    color: beige;
+    font-size:larger;
+    display:block;
+    text-align: left;
+    text-decoration-color: burlywood;
+    background-color: rgb(8, 200, 30);
+    padding-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    font-weight: bolder;
+}
+
+.cafe { 
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin-top:20px;
+    padding: 25px;
+    border-radius: 30px;
+    float: left;
+}
+
+.cafe1 { 
+    display: block;
+    height: 150px;
+    width: 150px;
+    margin-top:20px;
+    padding: 25px;
+    border-radius: 30px;
+    float: left;
+}
+
+.cafe2 { 
+    display: block;
+    height: 80px;
+    width: 80px;
+    margin-top:20px;
+    padding: 25px;
+    border-radius: 30px;
+    float: right;
+}
+
+.cafe3 { 
+    display: block;
+    height: 150px;
+    width: 150px;
+    margin-top:20px;
+    padding: 25px;
+    border-radius: 30px;
+    float: left;
+}
+
+.cafe4 { 
+    display: block;
+    height: 80px;
+    width: 80px;
+    margin-top:20px;
+    padding: 25px;
+    border-radius: 30px;
+    float: right;
+}
+
+.cafe5 { 
+    display: block;
+    height: 150px;
+    width: 150px;
+    margin-top:20px;
+    padding: 25px;
+    border-radius: 30px;
+    float: left;
+}
+
+
+.p { 
+    background-color: rgb(48, 30, 182);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    display:flexbox;
+    padding-left: 20px;
+    margin : 30px;
+    font-weight: bold;
+    
+}
+footer {
+    color: beige;
+background-color: rgb(50, 3, 3);
+font-family: 'Times New Roman', Times, serif;
+border-radius: 25px;
+font-size: xx-large;
+padding-block: 20px;
+margin-top: 5px;
+margin-bottom: 5px;
+
+border-color: beige;
+
+}
