@@ -1,15 +1,15 @@
 body {
-    color: whitesmoke;
+    color: rgb(65, 13, 13);
     background-color: rgb(60, 22, 229);
 }
 
 h1 {
-    color: beige;
+    color: rgb(74, 23, 11);
     font-size:xx-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
     display:grid;
     text-align: center;
-    text-decoration-color: burlywood;
+    text-decoration-color: rgb(62, 20, 11);
     background-color: rgb(50, 3, 3);
     padding-top: 10px;
     margin-bottom: 25px;
@@ -45,8 +45,8 @@ h3 {
 
 .cafe { 
     display: block;
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     margin-top:20px;
     padding: 25px;
     border-radius: 30px;
@@ -55,8 +55,8 @@ h3 {
 
 .cafe1 { 
     display: block;
-    height: 150px;
-    width: 150px;
+    height: 50px;
+    width: 50px;
     margin-top:20px;
     padding: 25px;
     border-radius: 30px;
@@ -65,8 +65,8 @@ h3 {
 
 .cafe2 { 
     display: block;
-    height: 80px;
-    width: 80px;
+    height: 50px;
+    width: 50px;
     margin-top:20px;
     padding: 25px;
     border-radius: 30px;
