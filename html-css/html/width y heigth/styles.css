@@ -1,19 +1,21 @@
-input {
+.formulario{
+    background: royalblue;
+    padding: 30px;/* la propiedad padding trabaja en orden segun las agujas del reloj iniciando desde arriba y terminando en la izquierda por medio de 4 valores top, right, bottom y left... igalmente un valor afecta los 4 lados y dos valores afectan vertical y horizontal*/ 
+}
+
+.formulario_input {
+    padding: 6px 10px;
     width: 90%;
-    box-sizing: border-box ;
-}
-form {
-    width: 300px;
-}
-
-div {
-    background: red;
-    width: 300px;/*ancho de caja*/
-    height: 100px;/*alto de caja*/
+background: black;
+color: royalblue;
+margin: 2px;
 }
 
-h1 {
-    background: blue;
-    height: 30px;
-    width: 80px;
+.formulario_submit {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background: royalblue;
+    color: white;
+    width: 50%;
 }
+
