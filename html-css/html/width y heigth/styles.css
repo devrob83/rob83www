@@ -1,0 +1,19 @@
+input {
+    width: 90%;
+    box-sizing: border-box ;
+}
+form {
+    width: 300px;
+}
+
+div {
+    background: red;
+    width: 300px;/*ancho de caja*/
+    height: 100px;/*alto de caja*/
+}
+
+h1 {
+    background: blue;
+    height: 30px;
+    width: 80px;
+}
