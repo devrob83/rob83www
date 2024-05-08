@@ -1,0 +1,22 @@
+@font-face {
+    font-family:"Megan" ;
+    src: url("fonts/Montserrat_Alternates/MontserratAlternates-ExtraLight.ttf") format("truetype");/*se escribe truetype en format para que el navegador identifique el tipo de tipografia*/
+    font-weight: 100;
+}
+
+@font-face {
+    font-family:"Megan" ;
+    src: url("fonts/Montserrat_Alternates/MontserratAlternates-Regular.ttf") format("truetype");/*se escribe truetype en format para que el navegador identifique el tipo de tipografia*/
+    font-weight: 400;
+}
+@font-face {
+    font-family:"Megan" ;
+    src: url("fonts/Montserrat_Alternates/MontserratAlternates-ExtraBold.ttf") format("truetype");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family:"Megan" ;
+    src: url("fonts/Montserrat_Alternates/MontserratAlternates-Black.ttf") format("truetype");/*se escribe truetype en format para que el navegador identifique el tipo de tipografia*/
+    font-weight: 900;
+}
