@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+div {
+    background: royalblue;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    border: 3px groove yellowgreen;
+    border-radius: 15%;
+}
+input {
+    margin: 5 px;
+    padding: 6px 9px;
+    border: none;
+    border-top: 1px solid white;
+    background: transparent;
+    border-left: 1px solid white;
+    color: greenyellow;
+    border-radius: 5px;
+}
