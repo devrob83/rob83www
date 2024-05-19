@@ -1,0 +1,11 @@
+.box {
+    padding: 20px 50px;
+    background: #1900a4;
+    margin: 20px;
+    margin-left: 100px;
+    text-align: center;
+    color: bisque;
+    border-top: 2px solid rgb(239, 136, 10);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
